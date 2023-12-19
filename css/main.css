@@ -301,7 +301,7 @@ body {
 }
 .site-header-title{
 	color: white !important;
-	font-weight: lighter;
+	font-weight: bold;
 	font-size: 20px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	text-decoration: none !important;
